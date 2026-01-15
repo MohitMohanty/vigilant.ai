@@ -84,7 +84,7 @@ This system enables:
 ## ⚙️ How to Run
 
 ```bash
-python main.py
+python vision-app.py
 ```
 
 Ensure:
@@ -105,6 +105,11 @@ Ensure:
 - AI / Computer Vision roles  
 
 ---
+## Screenshots
+
+<img width="1920" height="1080" alt="Screenshot 2026-01-15 120459" src="https://github.com/user-attachments/assets/55123495-b452-45d4-b32c-8003f5b2d70b" />
+
+
 
 ## 🔖 Tags
 #AI #ComputerVision #EdgeAI #IndustrialAI #DefenseTech #Python #NVIDIA #RTX #Ollama
